@@ -27,4 +27,4 @@
 ## Использование
 Для запуска файла, выполните:
   ```bash 
-   pip install -r requirements.txt
+   python HHVacancyTracker.py
